@@ -1,0 +1,6 @@
+{
+  "name": "Automated Artificial Light Control for Greenhouse Agriculture",
+  "description": "Precision greenhouse lighting automation system integrating ground sensors, GIS spatial zoning, CO2-light photosynthesis modeling, on-line plant growth telemetry, and AI horticultural expert control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
